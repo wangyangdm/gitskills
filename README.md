@@ -13,3 +13,4 @@ hello github
 Git支持多种协议，包括https，但通过ssh支持的原生git协议速度最快。
 
 Creating a new branch is quick.
+Creating a new branch is quick.
