@@ -31,4 +31,4 @@ Git鼓励大量使用分支：
 
 Creating a new branch is quick and simple.
 
-modify by wangyang at 2016年8月3日19:23:47
+合并master and ferture
