@@ -32,3 +32,6 @@ Git鼓励大量使用分支：
 Creating a new branch is quick and simple.
 
 合并master and ferture
+
+dev2 modify by wangyang 2016101194220
+
